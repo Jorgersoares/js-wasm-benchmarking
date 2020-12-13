@@ -1,0 +1,7 @@
+{
+  "extends": "assemblyscript/std/assembly.json",
+  "include": [
+    "./**/*.ts",
+    "../../.cache/JetBrains/WebStorm2020.2/javascript/typings/node/14.14.12/node_modules/@types/node/globals.d.ts"
+  ]
+}
