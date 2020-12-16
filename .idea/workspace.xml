@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="364f85f6-bdb2-400a-81f4-85b073527fd2" name="Default Changelist" comment="" />
+    <list default="true" id="364f85f6-bdb2-400a-81f4-85b073527fd2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assembly/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/assembly/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/fibonacii_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/fibonacii_test.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lTnOMVsvB05U4l1NzUmu7Rorpr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,7 +39,8 @@
       <option name="presentableId" value="Default" />
       <updated>1607629915253</updated>
       <workItem from="1607629916268" duration="8133000" />
-      <workItem from="1607881971449" duration="9218000" />
+      <workItem from="1607881971449" duration="15511000" />
+      <workItem from="1608086489656" duration="2000000" />
     </task>
     <servers />
   </component>
@@ -39,9 +48,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="620" y="341" width="742" height="435" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607632785543">
-      <screen x="72" y="31" width="1848" height="1049" />
+    <state x="405" y="218" width="554" height="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607895459549">
+      <screen x="0" y="0" width="1366" height="737" />
     </state>
+    <state x="405" y="218" width="554" height="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.737@0.0.1366.737" timestamp="1607895459549" />
     <state x="620" y="341" width="742" height="435" key="#com.intellij.fileTypes.FileTypeChooser/72.31.1848.1049@72.31.1848.1049" timestamp="1607632785543" />
   </component>
 </project>

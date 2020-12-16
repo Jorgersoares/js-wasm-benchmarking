@@ -15,3 +15,14 @@ export function fatorial(n: number): number{
   }
   return n * fatorial(n-1);
 }
+
+export function mdc(n1: number, n2: number): number{
+  if(n2 == 0){
+    return n1
+  }
+  else{
+    return mdc(n2, n1 % n2)
+  }
+}
+
+
