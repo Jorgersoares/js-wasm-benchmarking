@@ -1,10 +1,10 @@
 # js-wasm-benchmarking
-Testes de comparativo de tempo de execução de algoritmos CPU Bound utilizando Javascript e WebAssembly (AssemblyScript)
-## Estrutura
-- A pasta `assembly` contém o arquivo index.ts que é onde reside os algoritmos escritos em AssemblyScript que irão ser compilados para WebAssembly
-- A pasta `javascript` contém os algoritmos escritos em Javascript
-- A pasta `tests` contém os testes comparando o tempo de execução dos algoritmos utilizando Javascript e WebAssembly
-## Preparo do ambiente para executar os testes, execute os seguintes passos:
+Benchmarking of CPU bound algorithms comparing Javascript and WebAssembly (AssemblyScript)
+## Files structure
+- `assembly` folder contains the algorithms file coded in AssemblyScript that will be compiled for WebAssembly
+- `javascript` folder contains the algorithms coded in Javascript
+- `tests` folder contains the tests comparing the time of execution of algorithms in Javascript and WebAssembly
+## How to running the tests?:
 - `npm i`
-- `npm run asbuild` para compilar do AssemblyScript para WebAssembly. Obs: Ao adicionar códigos ou altera os códigos existentes na pasta assembly deve-se rodar esse comando
-- `node tests/<nome_teste>.js` para executar os testes
+- `npm run asbuild`
+- `node tests/<file-name>.js`
